@@ -1,0 +1,8 @@
+{
+  "name": "EduSphere  - The Ultimate Learning Hub",
+  "description": "An all-in-one AI-powered educational platform featuring textbook companion tools, career mapping, exam simulators, voice-enabled tutoring, and more.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
